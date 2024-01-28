@@ -1,0 +1,20 @@
+{padding: 0; margin: 0;}
+.container{
+    height: 100vh;
+    width: 100vw;
+    color: #444;
+    background: #ffe7e3;
+    text-align: center;
+}
+.for{padding-top: 25%;}
+h2{font-size: 72px; margin-bottom: 30px;}
+.for span{color: #fc9876;}
+.for a{text-decoration: none;
+    background: #eee;
+    padding: 5px;
+    margin: 5px 10px;
+     border: 3px solid #ddd;
+     border-radius: 10px;
+}
+#sure{color: green;}
+#nah{color: red;}
